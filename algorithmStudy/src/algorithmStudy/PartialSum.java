@@ -1,4 +1,4 @@
-package partialsum;
+package algorithmStudy;
 
 import java.util.*;
 
